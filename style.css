@@ -9,7 +9,7 @@ body {
   padding: 0;
   height: 100%;
   width: 100%;
-  overflow: hidden;
+  overflow-x: hidden;
   font-size: 16px;
   line-height: 1.8;
   background-color: #040415;
