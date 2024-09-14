@@ -99,16 +99,16 @@ li{
 .heading::before {
   content: "";
   position: absolute;
-  top: 10%;
-  left: 87%;
+  top: 11%;
+  left: 84%;
   transform: translateX(-50%);
-  width: 124%;
-  height: 205%;
+  width: 115%;
+  height: 208%;
   z-index: -1; 
   background-image: url("./assets/images/hbg0.png"), 
     url("./assets/images/hbg1.png"),
     url("./assets/images/hbg2.png");
-  background-size: auto 22%; 
+  background-size: auto 21%; 
   background-repeat: no-repeat;
   background-position: left top; 
   opacity: 0.32; 
