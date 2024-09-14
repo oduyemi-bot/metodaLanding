@@ -151,14 +151,10 @@ li{
   .heading::before {
     background-size: auto 18%;
     width: 94%;
-    left: 45%;
+    left: 45% !important;
   }
 
   #home {
     padding: 20px;
   }
 }
-
-
-
-
